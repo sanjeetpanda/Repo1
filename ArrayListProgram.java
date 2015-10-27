@@ -18,6 +18,7 @@ public class ArrayListProgram {
 		  obj.add("shishirabh");
 		  obj.add("urvasi");
 		  obj.add("shaleen");
+         System.out.println("Adding the code to Master");
 
 		  System.out.println("Currently the array list has following elements:"+obj);
 		  
