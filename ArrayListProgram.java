@@ -11,7 +11,7 @@ public class ArrayListProgram {
 		  obj.add("Ajeet");
 		 // obj.add("Harry");
 		  obj.add("Chaitanya");
-		  obj.add("Steve");
+		  
 		  obj.add("Anuj");
 		  obj.add("Ankita");
 		  //obj.add("kirti");
