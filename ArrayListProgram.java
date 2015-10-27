@@ -9,12 +9,12 @@ public class ArrayListProgram {
 		  ArrayList<String> obj = new ArrayList<String>();
 
 		  obj.add("Ajeet");
-		  obj.add("Harry");
+		 // obj.add("Harry");
 		  obj.add("Chaitanya");
 		  obj.add("Steve");
 		  obj.add("Anuj");
 		  obj.add("Ankita");
-		  obj.add("kirti");
+		  //obj.add("kirti");
 		  obj.add("shishirabh");
 		  obj.add("urvasi");
 		  obj.add("shaleen");
@@ -33,7 +33,7 @@ public class ArrayListProgram {
 		  obj.remove("Chaitanya");
 		  obj.remove("Harry");
 		  obj.remove("Sanjeet");
-		  obj.remove("Jyoti");
+		 // obj.remove("Jyoti");
 		  System.out.println("Current array list is:"+obj);
 
 		  
